@@ -1,4 +1,8 @@
-### Hi there 👋
+### João Pedro Barbosa 
+
+Hello there!
+
+My name is João Pedro. I'm Data Analyst. Actually working at Shopee Brazil. My main techs are Python and SQL.
 
 <!--
 **joaopedrobrb/joaopedrobrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
