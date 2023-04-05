@@ -2,8 +2,7 @@
 
 Hello there!
 
-My name is João Pedro. I'm Analytics Engineer. Actually working at Shopee Brazil. My main techs are Python and SQL. 
-I excel on transform business context into tech solutions, solving realm problems and supporting multiple-disciplinar teams.
+Data Engineer focused on Big Data processing. Love Spark here
 
 <!--
 **joaopedrobrb/joaopedrobrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
