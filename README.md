@@ -2,7 +2,7 @@
 
 Hello there!
 
-Data Engineer focused on Big Data processing. Love Spark here
+Data Engineer focused on Big Data processing.
 
 <!--
 **joaopedrobrb/joaopedrobrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
